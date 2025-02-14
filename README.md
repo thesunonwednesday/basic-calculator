@@ -37,4 +37,4 @@ basic-calculator/
 ├── styles.css
 ├── script.js
 └── README.md
-``` 
+```
